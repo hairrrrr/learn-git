@@ -8,5 +8,7 @@ int main()
 	puts("program ends");
 	putchar('x');
 
+	// 这里继续开发新功能
+
 	return 0;
 }
