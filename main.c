@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("hello world");
+	printf("hello world ~~~");
 
 	// 新功能
 	puts("program ends");
